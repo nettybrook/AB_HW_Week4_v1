@@ -1,21 +1,42 @@
 # AB_HW_Week4_v1
 Week # 4 Homework
+## Tumblr
 
-This is a demo of tumblr tab navigation
+The purpose of this homework is to leverage animations and gestures to create custom navigation. We're going to use the techniques from this week to implement some interactions in Tumblr.
 
-Time spent: 7 hours spent in total
+Time spent: 7 hours
 
-Completed user stories:
+### Features
 
- * [x] Required: Tapping on Home, Search, Account, or Trending should show the respective screen and highlight the tab bar button.
- * [x] Required: Compose button should modally present the compose screen.
- * [x] Optional: Compose screen is faded in while the buttons animate in.
- * [x] Optional: Login button should show animate the login form over the view controller.
- * [x] Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
- 
-Notes:
+#### Required
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+- [x] Tapping on Home, Search, Account, or Trending should show the respective screen and highlight the tab bar button.
+- [x] Compose button should modally present the compose screen.
 
-Walkthrough of all user stories:
-![Video Walkthrough](AB_HW_Week4_Anim.gif)
+#### Optional
+
+- [x] Compose screen is faded in while the buttons animate in.
+- [x] Login button should show animate the login form over the view controller.
+- [x] Discover bubble should bob up and down unless the SearchViewController is tapped.
+
+#### The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+
+### Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='AB_HW_Week4_Anim.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Describe any challenges encountered while building the app.
+No major challenges this week
+
+* Any libraries or borrowed content.
+

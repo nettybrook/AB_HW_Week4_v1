@@ -18,4 +18,4 @@ Notes:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
 Walkthrough of all user stories:
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](AB_HW_Week4_Anim.gif)
